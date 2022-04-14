@@ -71,5 +71,5 @@ for i in {1..10}; do curl -k -I -H "user-id:$100" --resolve cafe.example.com:443
 ```
 Expected response:
 
-HTTP/1.1 503 Service Temporarily Unavailable
+`HTTP/1.1 503 Service Temporarily Unavailable`
 

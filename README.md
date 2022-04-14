@@ -36,7 +36,7 @@ To deploy:
 
 To test:
 
-`oc scale --replicas=0 deployment coffee -n eliezer-test`
+`oc scale --replicas=0 deployment coffee -n namespace`
 
 Expected response:
 

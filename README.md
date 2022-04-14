@@ -42,7 +42,7 @@ To test:
 
 Expected response:
 
-`oops this is embarrassing! We will be back shortly!`
+`<center><h1>oops this is embarrassing! We will be back shortly!</h1></center>%`
 
 # 04-bluegreen
 

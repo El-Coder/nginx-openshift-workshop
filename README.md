@@ -38,6 +38,8 @@ To test:
 
 `oc scale --replicas=0 deployment coffee -n namespace`
 
+`curl http://cafe.example.com/coffee`
+
 Expected response:
 
 `oops this is embarrassing! We will be back shortly!`

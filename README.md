@@ -19,7 +19,7 @@ To deploy:
 
 To deploy:
 
-`oc apply -f 01-nginx-ingress-operator -n namespace`
+`oc apply -f 02-nginx-ingress-operator -n namespace`
 
 To test:
 

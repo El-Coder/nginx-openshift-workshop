@@ -50,6 +50,10 @@ To deploy:
 
 `oc apply -f 04-bluegreen -n namespace`
 
+To test:
+
+Modify weight in yaml and disable cache
+
 # 05-trafficsplit
 
 To deploy:
